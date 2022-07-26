@@ -1,0 +1,7 @@
+{
+  "model": "text-davinci-002",
+  "prompt": "",
+  "max_tokens": 250,
+  "temperature": 1,
+  "frequency_penalty": 1
+}
