@@ -17,65 +17,65 @@ The repo is organized into:
 
 
 ### Exhibit A (#3)
-Suh-weet 
-Love like this only comes around once in a blue moon 
-But I'm not a lunar cycle kind of queen  
+Suh-weet <br />
+Love like this only comes around once in a blue moon <br />
+But I'm not a lunar cycle kind of queen  <br />
 I'm more of a...every 4 years type 
 
-My DNA is a combination of many cultures 
-I'm the first one of my kind 
+My DNA is a combination of many cultures <br />
+I'm the first one of my kind <br />
 And I'll probably be the last 
 
-One day they'll study me in a high school textbook 
-And they'll call me "EXHIBIT A" 
+One day they'll study me in a high school textbook <br />
+And they'll call me "EXHIBIT A" <br />
 The product of a "mixed" relationship
 
 ---
 ### Diaspora (#4)
 
-We're all just children of the diaspora
-Trying to find our way back home
-Struggle bus, first class all the way to Ghana 
+We're all just children of the diaspora<br />
+Trying to find our way back home<br />
+Struggle bus, first class all the way to Ghana <br />
 I googled it, it's not that far
 
-But the journey is long and the path is filled with pain
-But we'll get there  one day
+But the journey is long and the path is filled with pain<br />
+But we'll get there  one day<br />
 My hair is my map, my afro is my guide 
 
-I'll find you,
-my lost kin I'll find you,
-my sista I'll find you,
-my bruda I'll find you,
+I'll find you,<br />
+my lost kin I'll find you,<br />
+my sista I'll find you,<br />
+my bruda I'll find you,<br />
 my mama
 
 ---
 ### Excerpt from Walking Contradiction (#7)
 
-I am what you never thought possible
-I have blue eyes and brown skin
-I am half sisters with Beyonce
-I have a black daddy and a white mommy
+I am what you never thought possible<br />
+I have blue eyes and brown skin<br />
+I am half sisters with Beyonce<br />
+I have a black daddy and a white mommy<br />
 I grew up in the hood but I went to private school
 
 ---
 ### The Product of a One-Night Stand (#10)
 
-I'm the product of a one-night stand
+I'm the product of a one-night stand<br />
 Between a white girl and a black boy
 
-I'm the product of a one-night stand
+I'm the product of a one-night stand<br />
 Who's parents said "It's not you, it's me"
 
-I'm the product of a one-night stand 
+I'm the product of a one-night stand<br /> 
 Who's grandparents said "We're just not ready"
 
-I'm the product of a one-night stand 
+I'm the product of a one-night stand<br /> 
 Who's friends say "You're not really black" 
 
-I'm the product of a one-night stand 
+I'm the product of a one-night stand<br /> 
 Who's world says "You're not really anything" 
 
-But I'm here I'm alive 
+But I'm here I'm alive<br /> 
 I'm the product of a one-night stand
 
 ---
@@ -120,45 +120,35 @@ I'm the product of a one-night stand
 ### Mixed People (#24)
 
 
-"Mixed people always think they're so ~exotic~"
-<br /><br />
-
-No, we just know that we're not fully white 
-
+"Mixed people always think they're so ~exotic~"<br />
+No, we just know that we're not fully white<br /> 
 and we're not fully black 
 
-so we might as well claim a little bit of both 
-<br /><br />
-
-We're the in-between 
-
-The not quite 
-
+so we might as well claim a little bit of both <br />
+We're the in-between <br />
+The not quite <br />
 The always-asking-for-the-receipt 
-<br /><br />
 
-We're the 
+We're the <br />
+"What are you?"<br />
 
-"What are you?"
- <br /><br />
-The 
-
+The <br />
 "Where are you from?"
- <br /><br />
-The "
-You're so pretty for a black girl"
- <br /><br />
 
-We're the "
-Can I touch your hair?"
- 
-The "Can I say the n-word?"
- 
-The "Can I call you my token black friend?"
-<br /><br />
+The <br />
+"You're so pretty for a black girl"
 
-We're mixed 
-and we're beautiful 
+We're the <br />
+"Can I touch your hair?"
+
+The <br />
+"Can I say the n-word?"
+
+The <br />
+"Can I call you my token black friend?"
+
+We're mixed             <br />
+and we're beautiful     <br />
 and we're not going anywhere
 
 ---
@@ -264,36 +254,36 @@ And I'm like
 ---
 ### I'm Not Mixed (#17)
 
-I'm not mixed
-I'm blended
+I'm not mixed           <br />
+I'm blended             <br />
 Like a fine wine
 
-I'm not mixed
-I'm flecked
+I'm not mixed           <br />
+I'm flecked             <br />
 Like a leopard
 
-I'm not mixed
-I'm speckled
+I'm not mixed           <br />
+I'm speckled            <br />
 Like a Dalmatian
 
-I'm not mixed
-I'm mottled
+I'm not mixed           <br />
+I'm mottled             <br />
 Like a Holstein cow
 
-I'm not mixed
-I'm variegated
+I'm not mixed           <br />
+I'm variegated          <br />
 Like a tropical fish
 
-I'm not mixed
-I'm marbled
+I'm not mixed           <br />
+I'm marbled             <br />
 Like a slab of meat
 
-I'm not mixed
-I'm motley
+I'm not mixed           <br />
+I'm motley              <br />
 Like a jester
 
-I'm not mixed
-I'm a patchwork
+I'm not mixed           <br />
+I'm a patchwork         <br />
 Like a quilt
 
 ---
@@ -320,9 +310,9 @@ Let me answer your questions with some questions of my own
 
 What are you mixed with?
 
-1/2 prejudice, 1/2 ignorant
-Just like your mama
+1/2 prejudice, 1/2 ignorant <br />
+Just like your mama         <br />
 Just like your daddy
 
-But what I really want to know is
+But what I really want to know is   <br />
 How much of you is human?
