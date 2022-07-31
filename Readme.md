@@ -81,29 +81,22 @@ I'm the product of a one-night stand
 ---
 ### What Else, Daddy? (#14)
 
-"But, daddy, what are you?"
- 
+"But, daddy, what are you?"<br />
 "I'm black, baby"
 
-"but what else"
- 
+"but what else"<br /> 
 "well...I'm also white"
  
-"but what else, daddy?"
- 
+"but what else, daddy?"<br />
 "I'm also Puerto Rican"
  
-"but what else, daddy?"
- 
+"but what else, daddy?"<br />
 "I'm also...Cuban"
  
-"but what else, daddy?"
- 
+"but what else, daddy?"<br />
 "I'm also...Mexican"
  
-"but what else, daddy?"
- 
-
+"but what else, daddy?"<br />
 "I'm also...human"
 
 ---
@@ -162,13 +155,13 @@ and we're not going anywhere
 
 "But what about your culture? What about your people? 🤔"
 
-I'm not sure what you're asking me,
- but I was born in Keokuk, Iowa 
+I'm not sure what you're asking me,<br />
+but I was born in Keokuk, Iowa <br />
 I'm as American as cherry pie
 
-My daddy was in the Navy 
-My mama was a hair dresser 
-I have an auntie who's gay 
+My daddy was in the Navy <br />
+My mama was a hair dresser <br />
+I have an auntie who's gay <br />
 And an uncle who's in jail 
 
 So what does that make me?
@@ -274,11 +267,11 @@ Like a quilt
 
 "What are you mixed with?" they ask
 
-1/2 black, 1/2 white
-Just like my mama
+1/2 black, 1/2 white <br />
+Just like my mama<br />
 Just like my daddy
 
-But what they really want to know is
+But what they really want to know is<br />
 How much of me is black?
 
 How "authentically" black am I?
@@ -291,8 +284,7 @@ Do I know what it's like to be oppressed?
 
 Let me answer your questions with some questions of my own
 
-What are you mixed with?
-
+What are you mixed with? <br />
 1/2 prejudice, 1/2 ignorant <br />
 Just like your mama         <br />
 Just like your daddy
