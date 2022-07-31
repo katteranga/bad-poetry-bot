@@ -122,9 +122,9 @@ I'm the product of a one-night stand
 
 "Mixed people always think they're so ~exotic~"<br />
 No, we just know that we're not fully white<br /> 
-and we're not fully black 
+and we're not fully black <br />
+so we might as well claim a little bit of both
 
-so we might as well claim a little bit of both <br />
 We're the in-between <br />
 The not quite <br />
 The always-asking-for-the-receipt 
@@ -161,21 +161,17 @@ and we're not going anywhere
 
 
 "But what about your culture? What about your people? 🤔"
-<br /><br />
 
 I'm not sure what you're asking me,
  but I was born in Keokuk, Iowa 
 I'm as American as cherry pie
-<br /><br />
 
 My daddy was in the Navy 
 My mama was a hair dresser 
 I have an auntie who's gay 
 And an uncle who's in jail 
-<br /><br />
 
 So what does that make me?
-<br /><br />
 
 A human being, just like you
 
@@ -185,42 +181,34 @@ A human being, just like you
 ### I'm a Walking Melting Pot (#29)
 <br />
 
-"What are you?"
-
-"Where are you from?"
-
+"What are you?"<br />
+"Where are you from?"<br />
 "What's your background?"
-<br /><br />
 
-I get asked these questions a lot
-As if my skin color is some sort of Rorschach test
-And people are just dying to know
+I get asked these questions a lot<br />
+As if my skin color is some sort of Rorschach test<br />
+And people are just dying to know<br />
 What they think they see
-<br /><br />
 
-I'm a walking melting pot
-A human chai latte
+I'm a walking melting pot<br />
+A human chai latte<br />
 With a shot of espresso
-<br /><br />
 
-I'm from the streets of New York
-The projects of Chicago
-The barrios of Los Angeles
-<br /><br />
+I'm from the streets of New York<br />
+The projects of Chicago<br />
+The barrios of Los Angeles<br />
 
-My background is black
-White
-Latino
-Asian
+My background is black<br />
+White<br />
+Latino<br />
+Asian<br />
 Native American
-<br /><br />
 
-I'm a mix of everything
+I'm a mix of everything<br />
 And I'm proud of it
-<br /><br />
 
-But sometimes I just wish people would see me
-For who I am
+But sometimes I just wish people would see me<br />
+For who I am<br />
 And not what they think I am
 
 ---
@@ -228,27 +216,22 @@ And not what they think I am
 
 I'm not mixed, I'm just a little brown sugar
 
-But people see me and they're like "
-oh, she's mixed"
+But people see me and they're like <br />
+"oh, she's mixed"
 
-
-And I'm like 
+And I'm like <br />
 "No, I'm not"
 
-
-But they're like 
+But they're like <br />
 "Yes, you are"
 
-
-And I'm like 
+And I'm like <br />
 "No, I'm not"
 
-
-But they're like 
+But they're like <br />
 "Yes, you are"
 
-
-And I'm like 
+And I'm like <br />
 "Fine, I'm mixed"
 
 ---
