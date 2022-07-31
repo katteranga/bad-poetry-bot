@@ -57,7 +57,7 @@ I am half sisters with Beyonce
 I have a black daddy and a white mommy
 I grew up in the hood but I went to private school
 
-
+---
 ### The Product of a One-Night Stand (#10)
 
 I'm the product of a one-night stand
@@ -161,11 +161,12 @@ We're mixed
 and we're beautiful 
 and we're not going anywhere
 
-
+---
 ### Excerpt from Just Like We Did (#28)
 
 "But mommy, what about your white friends? Won't they be, like, triggered by our mixed babies? cascading out of your Business and Economics degree?"
 
+---
 ### Just Like You (#41)
 
 
